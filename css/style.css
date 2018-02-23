@@ -141,6 +141,57 @@ i.glyphicon.glyphicon-book {
 	-webkit-transition:1s all;
 	-moz-transition:1s all;
 }
+
+.w3l-info .fa-yahoo:hover {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    -webkit-font-smoothing: antialiased;
+    color: #dd4b39;
+    font-size: 2em;
+    padding: 0em 0.6em;
+    transition:1s all;
+    -webkit-transition:1s all;
+    -moz-transition:1s all;
+}
+
+.w3l-info .fa-tumblr:hover {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    -webkit-font-smoothing: antialiased;
+    color: #dd4b39;
+    font-size: 2em;
+    padding: 0em 0.6em;
+    transition:1s all;
+    -webkit-transition:1s all;
+    -moz-transition:1s all;
+}
+.w3l-info .fa-reddit:hover {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    -webkit-font-smoothing: antialiased;
+    color: #dd4b39;
+    font-size: 2em;
+    padding: 0em 0.6em;
+    transition:1s all;
+    -webkit-transition:1s all;
+    -moz-transition:1s all;
+}
+
+.w3l-info .fa-yahoo:hover {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    -webkit-font-smoothing: antialiased;
+    color: #1da1f2;
+    font-size: 2em;
+    padding: 0em 0.6em;
+    transition:1s all;
+    -webkit-transition:1s all;
+    -moz-transition:1s all;
+}
 .social-media {
     margin: 5em 0em 2em;
 }
